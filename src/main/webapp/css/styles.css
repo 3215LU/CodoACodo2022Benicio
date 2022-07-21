@@ -1,0 +1,60 @@
+body{
+    background-color: #dadada;
+    margin: 0%;
+    
+    max-width: 100%;
+    max-height: 100%;
+}
+.tama{    
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/*Es el main de los formularios*/
+form .formRegistro{
+margin-left: 7%;
+}
+/*Fondo color de nav del la mano izquierda en columna*/
+.fondo{
+    background-color: #2b3c9c;
+    padding-top: 7%;
+    padding-bottom: 7%;    
+    color: #ffffff;
+    text-align-last: center;   
+     
+}
+.fondo:hover{
+    background-color: grey;
+    color: black;
+} 
+.listaColumna{
+    margin-left: 0%;
+    padding-right: 10%;
+}
+/*Refiere a la parte del container qye tiene en dos columa lo de sections*/
+.container{
+    margin: 0%;
+}
+/*Contenido de de la segunda columna de valor 8*/
+
+
+
+
+
+/*Es el pie de pagina*/
+footer div div {
+    margin: 2%;
+  }
+  
+.pie{
+  justify-content: center;
+  align-items:center;
+  display: flex;
+  margin-top: 25px;
+  background-image: linear-gradient(to right, rgb(64, 77, 181),rgb(29, 29, 29));
+}
+/*Color y decoracion de los enlaces <a>, del footer*/
+.footerText{
+color: aliceblue;
+text-decoration:none; 
+}
